@@ -1,30 +1,6 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Myra"
-    },
-    {
-      "name": "Floyd Borer",
-      "id": 2
-    },
-    {
-      "name": "Ana Collier",
-      "id": 3
-    },
-    {
-      "name": "Roderick Thompson",
-      "id": 4
-    },
-    {
-      "name": "Delia Hirthe",
-      "id": 5
-    },
-    {
-      "name": "Conrad Murphy",
-      "id": 6
-    },
-    {
       "name": "Cecelia Hyatt Sr.",
       "id": 7
     },
@@ -59,6 +35,10 @@
     {
       "name": "Leslie Stoltenberg",
       "id": 15
+    },
+    {
+      "name": "Travis Pfannerstill",
+      "id": 16
     }
   ],
   "albums": [],
