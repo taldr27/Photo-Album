@@ -1,6 +1,10 @@
 {
   "users": [
     {
+      "name": "Myra",
+      "id": 1
+    },
+    {
       "name": "Cecelia Hyatt Sr.",
       "id": 7
     },
@@ -41,6 +45,12 @@
       "id": 16
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 1,
+      "title": "Hiking Trip",
+      "userId": 1
+    }
+  ],
   "photos": []
 }
