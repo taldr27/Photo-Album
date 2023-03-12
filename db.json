@@ -50,7 +50,18 @@
       "id": 1,
       "title": "Hiking Trip",
       "userId": 1
+    },
+    {
+      "userId": 7,
+      "title": "Elegant Cotton Mouse",
+      "id": 2
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=96409",
+      "id": 1
+    }
+  ]
 }
