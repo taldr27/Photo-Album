@@ -14,9 +14,9 @@ function ExpandablePanel({ header, children }) {
         <div className="flex flex-row items-center justify-between">
           {header}
         </div>
-      </div>
-      <div className="cursor-pointer" onClick={handleClick}>
-        {expanded ? <GoChevronDown /> : <GoChevronLeft />}  
+        <div className="cursor-pointer" onClick={handleClick}>
+          {expanded ? <GoChevronDown /> : <GoChevronLeft />}  
+        </div>
       </div>
       {
         expanded && <div className="p-2 border-t">{children}</div>
