@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "name": "Myra",
+      "id": 1
+    },
+    {
+      "name": "Cecelia Hyatt Sr.",
+      "id": 7
+    },
+    {
+      "name": "Mr. Curtis Jast",
+      "id": 8
+    },
+    {
+      "name": "Mr. James Luettgen DVM",
+      "id": 9
+    },
+    {
+      "name": "Dr. Katrina Gerhold II",
+      "id": 10
+    },
+    {
+      "name": "Dr. Forrest Sauer",
+      "id": 11
+    },
+    {
+      "name": "Clinton Aufderhar",
+      "id": 12
+    },
+    {
+      "name": "Sidney Bernier",
+      "id": 13
+    },
+    {
+      "name": "Shane Fay",
+      "id": 14
+    },
+    {
+      "name": "Leslie Stoltenberg",
+      "id": 15
+    },
+    {
+      "name": "Travis Pfannerstill",
+      "id": 16
+    }
+  ],
+  "albums": [
+    {
+      "id": 1,
+      "title": "Hiking Trip",
+      "userId": 1
+    },
+    {
+      "userId": 7,
+      "title": "Elegant Cotton Mouse",
+      "id": 2
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=54588",
+      "id": 1
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=20997",
+      "id": 2
+    }
+  ]
+}
