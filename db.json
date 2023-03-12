@@ -60,8 +60,13 @@
   "photos": [
     {
       "albumId": 1,
-      "url": "https://loremflickr.com/150/150/abstract?lock=96409",
+      "url": "https://loremflickr.com/150/150/abstract?lock=54588",
       "id": 1
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=20997",
+      "id": 2
     }
   ]
 }
